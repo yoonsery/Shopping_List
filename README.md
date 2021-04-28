@@ -8,8 +8,8 @@ This is my small toy project
 
 ### Features
 Users are able to
-- add an item by clicking a button or pressing an enter key
-- delete item
+- add an new item by clicking a button or pressing an enter key
+- delete item from the list
 
 ### What I Learn
 - event bubbling & capturing
