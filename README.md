@@ -1,5 +1,5 @@
 
-# 🧾 Shopping List
+# 🛒 Shopping List
 
 This is my small toy project
 
